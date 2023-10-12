@@ -11,18 +11,18 @@ public class Tipe_Data_Angka {
     */
     
     byte x, y, z;
-        x = 12;
+        x = 2;
         y = 5;
         z = (byte )(x+y);
 
     short k, l, m;
         k = -9;
-        l = 2;
+        l = 3;
         m = (short)(k+l);  
      
     int a, b, c;
-        a = 3;
-        b = 4;
+        a = 12;
+        b = 24;
         c = a-b;
      
     long o, p, q;
