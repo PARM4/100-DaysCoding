@@ -34,8 +34,6 @@ public class Tipe_Data_Angka {
     System.out.println(m);
     System.out.println(c);
     System.out.println(q);
-            
-    
     }
     
 }
