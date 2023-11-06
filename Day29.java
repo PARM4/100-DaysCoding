@@ -1,4 +1,4 @@
-package menu;
+4package menu;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -33,4 +33,14 @@ public class Main {
         
         }else if(pilih == 3){
             String nama = "Gado - Gado";
-            int total = porsi *
+            int total = porsi * 8000;
+            System.out.println("Pesanan anda adalah :");
+            System.out.println("Jenis pesanan  : " + nama);
+            System.out.println("Jumlah pesanan : " + porsi);
+            System.out.println("Total pesanan  : Rp." + total);
+        }
+        
+        System.out.println("-------Selamat Menikmati--------");
+    }
+        
+}
