@@ -1,4 +1,4 @@
-package day2;
+package usiaorang;
 import java.util.Scanner;
 public class Main {
     
