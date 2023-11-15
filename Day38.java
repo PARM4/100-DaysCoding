@@ -14,7 +14,7 @@ public class Main {
         System.out.println("1.Teknik Informatika\n2.Teknik Sipil\n3.Teknik Perencanaan Wilayah Dan Kota");
         System.out.print("Masukkan Pilihan (1-3): ");
         int pilih = input.nextInt();
-        System.out.println("===========================");
+        System.out.println("=========================================");
         
         switch(pilih){
             case 1:
