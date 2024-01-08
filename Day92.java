@@ -4,7 +4,7 @@ public class day92 {
     
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.print("banyak data : ");
+        System.out.print("banyak data : "); 
         int byk = s.nextInt();
         String[][] data = new String[byk][3];
         for(int i=0; i<byk; i++){
