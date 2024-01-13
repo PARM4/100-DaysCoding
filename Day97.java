@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class day97 {
     public static double luas(double phi, double r){
         double L = phi*r*r;
-        return L;
+        return L; 
     }
     public static double keliling(double phi, double r){
         double d = 2*r;
